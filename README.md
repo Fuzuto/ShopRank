@@ -1,4 +1,5 @@
-# ShopRank_V2
+ShopRank_V2
+==================================================================
 Plugin For Pocketmine-mp
 Plugin Made By FurryJaki1992
 Plugin Made By Vietnamese people

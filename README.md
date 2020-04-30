@@ -6,7 +6,6 @@ You Can Edit It With Google Translator If You Are A Foreigner
 mhvn.ddns.net:19132
 ==================================================================
           what's new in plugin?
-
 Add Icon For Button ( FormAPI )
 Add Config.yml Very Easy Edit
 Can Edit Format ( Format Button Exit & Buy, Title Form, Message, Content Form, ...)

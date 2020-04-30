@@ -1,0 +1,101 @@
+#Code By : FurryJaki1992
+#Version : 2.0
+#Made by Vietnamese people
+#Facebook : :)) no link
+#Zalo : 84+ 0901944607
+#Id : mhvn.ddns.net | port : 19132
+#Vote : https://bit.do/minehub
+#Group : https://bit.do/groupminehub
+
+
+# → Tên Gói Vip ( VD: VIPXNXX )
+
+VipI.Name: Vip§cI
+VipII.Name: Vip§cII
+VipIII.Name: Vip§cIII
+VipIV.Name: Vip§cIV
+VipV.Name: Vip§cV
+VipVI.Name: Vip§cVI
+VipVII.Name: Vip§cVII
+
+# → Giá Vip ( VD: Giá VIP )
+
+VipI.Gia: 10
+VipII.Gia: 50
+VipIII.Gia: 150
+VipIV.Gia: 250
+VipV.Gia: 400
+VipVI.Gia: 600
+VipVII.Gia: 900
+
+# → Rank ( VD: OP :> )
+
+VipI.Rank: VipI
+VipII.Rank: VipII
+VipIII.Rank: VipIII
+VipIV.Rank: VipIV
+VipV.Rank: VipV
+VipVI.Rank: VipVI
+VipVII.Rank: VipVII
+
+# → Ngày Rank ( VD: 10 ) [ Ngày ]
+
+VipI.Ngay: 7
+VipII.Ngay: 15
+VipIII.Ngay: 30
+VipIV.Ngay: 50
+VipV.Ngay: 100
+VipVI.Ngay: 200
+VipVII.Ngay: 300
+
+# → Tên Point Của Bạn ( VD: HPoints )
+
+Point: HPoints
+
+# → Không & Mua Vip ( Buy & Exit )
+
+KhongMuaVip: §l§6•§c EXIT§6 •
+MuaVip: §l§6•§a MUA§6 •
+# ============== Form Chính ===============
+# → Chữ Hiện Trên Đầu Bảng ( Title FormUI )
+
+Title.Vip: §c§lRank Shop
+
+# → Chữ Nhỏ Hiện Dưới Title Tiên Khi Nhập Lệnh( Content FormUI )
+# LƯU Ý : ko thể thay đổi dòng hiện point ( My Point )
+
+Content: §l§c↣§a Bạn Muốn Mua Rank Gì ?
+
+# → Nút Thoát Khỏi Form Chính ( Button Exit Format )
+
+Exit: §l§f•§c EXIT§f •
+
+# ============== Form Chính ===============
+
+# • Mua Thất Bại •
+# → Tin Nhắn Khi Người Chơi Mua Không Thành Công
+
+MessageFail: §l§6•§e Bạn Không Đủ §aHpoint§c !
+
+# → Quay Lại Shop & Thoát Khỏi Shop Khi Mua Thành Công Và Thất Bại ( Back To Shop & Exit )
+
+QuayLaiShop: §l§6•§c Quay Lại Shop§6 •
+ThoatShop: §l§6•§c EXIT§6 •
+
+# • Mua Thành Công •
+# Tin Nhắn Khi Người Chơi Mua Thành Công
+# VD : Đã Mua Thành Công VipVII
+
+MessageSuccessI: §aĐã Mua Thành Công§9 Vip§cI !
+MessageSuccessII: §aĐã Mua Thành Công§9 Vip§cII !
+MessageSuccessIII: §aĐã Mua Thành Công§9 Vip§cIII !
+MessageSuccessIV: §aĐã Mua Thành Công§9 Vip§cIV !
+MessageSuccessV: §aĐã Mua Thành Công§9 Vip§cV !
+MessageSuccessVI: §aĐã Mua Thành Công§9 Vip§cVI !
+MessageSuccessVII: §aĐã Mua Thành Công§9 Vip§cVII !
+
+# • Prefix •
+# VD : ShopRank, MineHub, ...
+
+Prefix: §l§cRankShop
+...

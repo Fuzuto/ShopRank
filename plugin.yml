@@ -1,0 +1,8 @@
+name: MuaVIP
+api: 3.0.0
+main: MuaVIP\Main
+version: 1.0.0
+commands:
+ muavip:
+  description: §6•§e Mua§c VIP§6 •
+  aliases: ["muarank", "buyrank", "buyvip"]

@@ -16,7 +16,7 @@
 
           what's new in plugin?
 
-* Add Icon For Button ( FormAPI )
+* Add Icon For Button ( Picture )
 
 * Add Config.yml Very Easy Edit
 

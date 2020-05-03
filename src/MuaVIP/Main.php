@@ -285,7 +285,7 @@ class Main extends PluginBase implements Listener {
         $rank = $this->getConfig()->get("VipIV.Rank");
         $ngay = $this->getConfig()->get("VipIV.Ngay");
         $gia = $this->getConfig()->get("VipIV.Gia");
-        $vipii = $this->getConfig()->get("VipIII.Rank");
+        $vipiii = $this->getConfig()->get("VipIII.Rank");
         $points = $this->getConfig()->get("Point");
         $form->setTitle($this->getConfig()->get("Title.Vip"));
 		$form->setContent("§l§bQuyền §c".$name."§f:\n§r§eCó Tất Cả Quyền §d".$vipiii."\n§c1§7. áo choàng (/cape)\n§c2§7. Ba lô di động (/backpack)\n§c3§7. Hiệu Mủi Tên (/arrowtrails)\n§l§f→§r §aBạn có muốn mua §e".$name." §f(§a".$gia." §c".$points."§f) = §f(§6".$ngay." ngày§f)?");
